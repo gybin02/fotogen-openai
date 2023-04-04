@@ -126,9 +126,9 @@ const Generate = (props: Props) => {
           </Button>
         )}
         <Divider />
-        <Box pt={12}>
+<!--         <Box pt={12}>
           <SponsorList sponsorList={sponsorList} />
-        </Box>
+        </Box> -->
       </VStack>
     </form>
   );
